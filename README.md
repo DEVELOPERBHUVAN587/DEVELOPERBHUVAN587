@@ -44,3 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerbhuvan587&background=0d1117&border=FFA116&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="developerbhuvan587" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
